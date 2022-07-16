@@ -76,3 +76,6 @@ DerivedDataCache/*
 /MegaGame/Config/HoloLens/HoloLensEngine.ini
 /MegaGame/Intermediate/
 /MegaGame/Saved/
+MegaGame/Saved/AutoScreenshot.png
+*.ini
+*.log
