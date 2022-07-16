@@ -1669,3 +1669,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.16-09.56.03:530][717]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
 [2022.07.16-09.56.03:601][717]LogD3D12RHI: ~FD3D12DynamicRHI
 [2022.07.16-09.56.03:601][717]LogExit: Exiting.
+[2022.07.16-09.56.03:612][717]Log file closed, 07/16/22 12:56:03
